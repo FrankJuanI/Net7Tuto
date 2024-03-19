@@ -11,19 +11,22 @@ namespace Net7Tuto.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "SuperHeroes",
+                name: "Employees",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     FirstName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     LastName = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Place = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Place = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    AdressId = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Seniority = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Salary = table.Column<int>(type: "int", nullable: false),
+                    CurrentProyect = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_SuperHeroes", x => x.Id);
+                    table.PrimaryKey("PK_Employees", x => x.Id);
                 });
         }
 
@@ -31,7 +34,7 @@ namespace Net7Tuto.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "SuperHeroes");
+                name: "Employees");
         }
     }
 }

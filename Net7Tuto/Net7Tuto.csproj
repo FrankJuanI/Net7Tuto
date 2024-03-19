@@ -22,13 +22,13 @@
   <ItemGroup>
     <None Remove="Models\" />
     <None Remove="Services\" />
-    <None Remove="Services\SuperHeroService\" />
     <None Remove="Data\" />
+    <None Remove="Services\EmployeeService\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
     <Folder Include="Services\" />
-    <Folder Include="Services\SuperHeroService\" />
     <Folder Include="Data\" />
+    <Folder Include="Services\EmployeeService\" />
   </ItemGroup>
 </Project>

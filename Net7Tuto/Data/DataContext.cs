@@ -1,5 +1,5 @@
 ﻿global using Microsoft.EntityFrameworkCore;
-using System;
+
 
 namespace Net7Tuto.Data
 {
@@ -13,9 +13,9 @@ namespace Net7Tuto.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("Server=localhost;Database=SuperHeroes;User=sa;Password=J72016HGp?;Trusted_Connection=False;Encrypt=false");
+            optionsBuilder.UseSqlServer("Server=localhost;Database=Employees;User=sa;Password=J72016HGp?;Trusted_Connection=False;Encrypt=false");
         }
 
-        public DbSet<SuperHero> SuperHeroes { get; set; }
+        public DbSet<Employee> Employees { get; set; }
     }
 }
