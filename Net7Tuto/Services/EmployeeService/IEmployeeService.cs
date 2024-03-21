@@ -4,7 +4,7 @@
 	{
         Task<List<Employee>> GetAllEmployees();
 
-        //Task<SuperHero?> GetSingleHero(int id);
+        Task<Employee?> GetSingleEmployee(int id);
 
         //Task<List<SuperHero>> AddHero(SuperHero hero);
 

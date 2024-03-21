@@ -24,15 +24,16 @@ namespace Net7Tuto.Controllers
             return await _employeeService.GetAllEmployees();
         }
 
-        //[HttpGet("/id")]
-        //public async Task<ActionResult<SuperHero>> GetSingleHero(int id)
-        //{
-        //    var result = await _superHeroService.GetSingleHero(id);
-        //    if (result is null)
-        //        return NotFound("Hero not found");
 
-        //    return Ok(result);
-        //}
+        [HttpGet("/id")]
+        public async Task<ActionResult<Employee>> GetSingleEmployee(int id)
+        {
+            var result = await _employeeService.GetSingleEmployee(id);
+            if (result is null)
+                return NotFound("Hero not found");
+
+            return Ok(result);
+        }
 
         //[HttpPost]
         //public async Task<ActionResult<List<SuperHero>>> AddHero(SuperHero hero)
@@ -60,7 +61,7 @@ namespace Net7Tuto.Controllers
         //        return NotFound("Hero not found");
 
         //    return Ok(result);
-            
+
         //}
     }
 }

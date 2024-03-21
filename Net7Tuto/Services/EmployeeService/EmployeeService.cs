@@ -10,7 +10,6 @@ namespace Net7Tuto.Services.EmployeeService
         {
             _context = context;
         }
-
         
         public async Task<List<Employee>> GetAllEmployees()
         {
@@ -18,7 +17,16 @@ namespace Net7Tuto.Services.EmployeeService
             return employees;
         }
 
-        
+        public async Task<Employee?> GetSingleEmployee(int id)
+        {
+            var employee = await _context.Employees.FindAsync(id);
+            if (employee is null)
+                return null;
+
+            return employee;
+        }
+
+
         //public async Task<List<SuperHero>> AddHero(SuperHero hero)
         //{
         //    _context.SuperHeroes.Add(hero);
@@ -38,14 +46,7 @@ namespace Net7Tuto.Services.EmployeeService
         //    return await _context.SuperHeroes.ToListAsync();
         //}
 
-        //public async Task<SuperHero?> GetSingleHero(int id)
-        //{
-        //    var hero = await _context.SuperHeroes.FindAsync(id);
-        //    if (hero is null)
-        //        return null;
 
-        //    return hero;
-        //}
 
         //public async Task<List<SuperHero>?> UpdateHero(int id, SuperHero request)
         //{
