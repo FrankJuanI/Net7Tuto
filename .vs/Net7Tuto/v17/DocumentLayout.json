@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|c:\\users\\juan-\\onedrive\\escritorio\\reposgit\\net7tuto\\net7tuto\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|solutionrelative:net7tuto\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|c:\\users\\juan-\\onedrive\\escritorio\\reposgit\\net7tuto\\net7tuto\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|solutionrelative:net7tuto\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|c:\\users\\juan-\\onedrive\\escritorio\\reposgit\\net7tuto\\net7tuto\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|solutionrelative:net7tuto\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|c:\\users\\juan-\\onedrive\\escritorio\\reposgit\\net7tuto\\net7tuto\\services\\employeeservice\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|solutionrelative:net7tuto\\services\\employeeservice\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|c:\\users\\juan-\\onedrive\\escritorio\\reposgit\\net7tuto\\net7tuto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|solutionrelative:net7tuto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|c:\\users\\juan-\\onedrive\\escritorio\\reposgit\\net7tuto\\net7tuto\\services\\employeeservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|solutionrelative:net7tuto\\services\\employeeservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|c:\\users\\juan-\\onedrive\\escritorio\\reposgit\\net7tuto\\net7tuto\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|solutionrelative:net7tuto\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|c:\\users\\juan-\\onedrive\\escritorio\\reposgit\\net7tuto\\net7tuto\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|solutionrelative:net7tuto\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|c:\\users\\juan-\\onedrive\\escritorio\\reposgit\\net7tuto\\net7tuto\\models\\employeeadress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|solutionrelative:net7tuto\\models\\employeeadress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|c:\\users\\juan-\\onedrive\\escritorio\\reposgit\\net7tuto\\net7tuto\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|solutionrelative:net7tuto\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|c:\\users\\juan-\\onedrive\\escritorio\\reposgit\\net7tuto\\net7tuto\\net7tuto.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|solutionrelative:net7tuto\\net7tuto.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|c:\\users\\juan-\\onedrive\\escritorio\\reposgit\\net7tuto\\net7tuto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4EC0890-3ECF-485F-BC4C-4C2B5693FF06}|Net7Tuto\\Net7Tuto.csproj|solutionrelative:net7tuto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Net7Tuto\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Models\\Project.cs",
+              "RelativeToolTip": "Net7Tuto\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T14:52:40.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeAdress.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Models\\EmployeeAdress.cs",
+              "RelativeDocumentMoniker": "Net7Tuto\\Models\\EmployeeAdress.cs",
+              "ToolTip": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Models\\EmployeeAdress.cs",
+              "RelativeToolTip": "Net7Tuto\\Models\\EmployeeAdress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:23:54.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Net7Tuto\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Models\\Department.cs",
+              "RelativeToolTip": "Net7Tuto\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:21:28.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Services\\EmployeeService\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Net7Tuto\\Services\\EmployeeService\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Services\\EmployeeService\\IEmployeeService.cs",
+              "RelativeToolTip": "Net7Tuto\\Services\\EmployeeService\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:56:10.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Services\\EmployeeService\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Net7Tuto\\Services\\EmployeeService\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Services\\EmployeeService\\EmployeeService.cs",
+              "RelativeToolTip": "Net7Tuto\\Services\\EmployeeService\\EmployeeService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:55:33.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Net7Tuto\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Data\\DataContext.cs",
+              "RelativeToolTip": "Net7Tuto\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:03:18.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Net7Tuto\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Models\\Client.cs",
+              "RelativeToolTip": "Net7Tuto\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:24:13.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Net7Tuto\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Net7Tuto\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:55:19.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Net7Tuto\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Models\\Employee.cs",
+              "RelativeToolTip": "Net7Tuto\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:43:30.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Program.cs",
+              "RelativeDocumentMoniker": "Net7Tuto\\Program.cs",
+              "ToolTip": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Program.cs",
+              "RelativeToolTip": "Net7Tuto\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:09:26.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Net7Tuto",
+              "DocumentMoniker": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Net7Tuto.csproj",
+              "RelativeDocumentMoniker": "Net7Tuto\\Net7Tuto.csproj",
+              "ToolTip": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Net7Tuto.csproj",
+              "RelativeToolTip": "Net7Tuto\\Net7Tuto.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T14:56:34.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\appsettings.json",
+              "RelativeDocumentMoniker": "Net7Tuto\\appsettings.json",
+              "ToolTip": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\appsettings.json",
+              "RelativeToolTip": "Net7Tuto\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T20:03:39.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3306,25 +3306,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/jfrank/.nuget/packages/": {}
+    "C:\\Users\\juan-\\.nuget\\packages\\": {},
+    "D:\\Programas\\Visual Studio\\Compartidos\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jfrank/Documents/GM2/Net7Tuto/Net7Tuto/Net7Tuto.csproj",
+      "projectUniqueName": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Net7Tuto.csproj",
       "projectName": "Net7Tuto",
-      "projectPath": "/Users/jfrank/Documents/GM2/Net7Tuto/Net7Tuto/Net7Tuto.csproj",
-      "packagesPath": "/Users/jfrank/.nuget/packages/",
-      "outputPath": "/Users/jfrank/Documents/GM2/Net7Tuto/Net7Tuto/obj/",
+      "projectPath": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\Net7Tuto.csproj",
+      "packagesPath": "C:\\Users\\juan-\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\juan-\\OneDrive\\Escritorio\\ReposGit\\Net7Tuto\\Net7Tuto\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Programas\\Visual Studio\\Compartidos\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/jfrank/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\juan-\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3337,6 +3344,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3385,7 +3397,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
