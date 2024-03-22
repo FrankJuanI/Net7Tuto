@@ -12,7 +12,6 @@ namespace Net7Tuto.Models
 
         public Guid ClientId { get; set; } 
 
-        public ICollection<Employee> Employees { get; set; } = new List<Employee>();
 
     }
 }
