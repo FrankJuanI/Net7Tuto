@@ -10,7 +10,6 @@ namespace Net7Tuto.Models
 
         public string ClientName { get; set; } = string.Empty;
 
-        public ICollection<Project> Projects { get; set; } = new List<Project>();
 
     }
 }
