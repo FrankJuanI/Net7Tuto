@@ -10,7 +10,7 @@ namespace Net7Tuto.Models
 
         public string DepartmentName { get; set; } = string.Empty;
 
-        public List<Employee>? Employees { get; set; }
+        //public ICollection<Employee>? Employees { get; set; }
 
         //public Employee? Employee { get; set; }
 
