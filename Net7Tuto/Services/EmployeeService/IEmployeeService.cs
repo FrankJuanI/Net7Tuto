@@ -4,13 +4,13 @@
 	{
         Task<List<Employee>> GetAllEmployees();
 
-        Task<Employee?> GetSingleEmployee(int id);
+        Task<Employee?> GetSingleEmployee(Guid id);
 
-        //Task<List<SuperHero>> AddHero(SuperHero hero);
+        Task<List<Employee>> AddEmployee(Employee employee);
 
-        //Task<List<SuperHero>?> UpdateHero(int id, SuperHero request);
+        Task<List<Employee>?> UpdateEmployee(Guid id, Employee request);
 
-        //Task<List<SuperHero>?> DeleteHero(int id);
+        Task<List<Employee>?> DeleteEmployee(Guid id);
     }
 }
 
