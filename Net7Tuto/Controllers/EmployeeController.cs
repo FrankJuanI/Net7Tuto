@@ -17,8 +17,9 @@ namespace Net7Tuto.Controllers
         {
             _employeeService = employeeService;
         }
-            
-        [HttpGet("/employees")]
+
+
+		[HttpGet("/employees")]
         public async Task<ActionResult<List<Employee>>> GetAllEmployees()
         {
             return await _employeeService.GetAllEmployees();
@@ -26,43 +27,43 @@ namespace Net7Tuto.Controllers
 
 
         [HttpGet("/id")]
-        public async Task<ActionResult<Employee>> GetSingleEmployee(int id)
+        public async Task<ActionResult<Employee>> GetSingleEmployee(Guid id)
         {
             var result = await _employeeService.GetSingleEmployee(id);
             if (result is null)
-                return NotFound("Hero not found");
+                return NotFound("Employee not found");
 
             return Ok(result);
         }
 
-        //[HttpPost]
-        //public async Task<ActionResult<List<SuperHero>>> AddHero(SuperHero hero)
-        //{
-        //    var result = await _superHeroService.AddHero(hero);
-        //    return Ok(result);
-        //}
+		[HttpPost]
+        public async Task<ActionResult<List<Employee>>> AddEmployee(Employee employee)
+        {
+            var result = await _employeeService.AddEmployee(employee);
+            return Ok(result);
+        }
 
 
-        //[HttpPut("{id}")]
-        //public async Task<ActionResult<List<SuperHero>>> UpdateHero(int id, SuperHero request)
-        //{
-        //    var result = await _superHeroService.UpdateHero(id, request);
-        //    if (result is null)
-        //        return NotFound("Hero not found");
+        [HttpPut("{id}")]
+        public async Task<ActionResult<List<Employee>>> UpdateEmployee(Guid id, Employee request)
+        {
+            var result = await _employeeService.UpdateEmployee(id, request);
+            if (result is null)
+               return NotFound("Employee not found");
 
-        //    return Ok(result);
-        //}
+            return Ok(result);
+        }
 
-        //[HttpDelete("{id}")]
-        //public async Task<ActionResult<List<SuperHero>>> DeleteHero(int id)
-        //{
-        //    var result = await _superHeroService.DeleteHero(id);
-        //    if (result is null)
-        //        return NotFound("Hero not found");
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<List<Employee>>> DeleteEmployee(Guid id)
+        {
+            var result = await _employeeService.DeleteEmployee(id);
+            if (result is null)
+                return NotFound("Hero not found");
 
-        //    return Ok(result);
+            return Ok(result);
 
-        //}
+        }
     }
 }
 
