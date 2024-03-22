@@ -12,15 +12,15 @@ namespace Net7Tuto.Models
 
         public string LastName { get; set; } = string.Empty;
 
-        public string Place { get; set; } = string.Empty;
-
         public string Seniority { get; set; } = string.Empty;
 
         public int Salary { get; set; }
 
-        public EmployeeAdress? EmployeeAdress { get; set; }
+        public virtual EmployeeAdress? EmployeeAdress { get; set; }
 
-        public Department? Department { get; set; }
+        public virtual Department? Department { get; set; }
 
     }
 }
+
+
